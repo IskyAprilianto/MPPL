@@ -8,9 +8,9 @@ public class SimulasiTabungan {
         Scanner scanner = new Scanner(System.in);
         int pilihan = 0;
         while (pilihan != 4) {
-            System.out.println("=========================");
-            System.out.println("MENU SIMULASI TABUNGAN");
-            System.out.println("=========================");
+            System.out.println("========================");
+            System.out.println("| MENU SIMULASI TABUNGAN |");
+            System.out.println("========================");
             System.out.println("1. Tambah Tabungan");
             System.out.println("2. Tampil Tabungan");
             System.out.println("3. Hapus Tabungan");
